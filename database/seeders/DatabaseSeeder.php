@@ -22,6 +22,8 @@ class DatabaseSeeder extends Seeder
             BookSeeder::class,
 
             UserSedeer::class,
+
+            TransactionSeeder::class,
         ]);
     }
 }
